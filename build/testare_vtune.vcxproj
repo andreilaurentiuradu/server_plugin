@@ -408,7 +408,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="L:\UPB_ACS_CTI\server_plugin\server\doamne.cpp" />
+    <ClCompile Include="L:\UPB_ACS_CTI\server_plugin\server\client.cpp" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

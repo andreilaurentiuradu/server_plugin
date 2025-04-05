@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
  <rdmgr>
-  <collectionTimeBegin type="u64_t">1743874282</collectionTimeBegin>
-  <collectionTimeEnd type="u64_t">1743874283</collectionTimeEnd>
+  <collectionTimeBegin type="u64_t">1743885369</collectionTimeBegin>
+  <collectionTimeEnd type="u64_t">1743885371</collectionTimeEnd>
  </rdmgr>
 </root>

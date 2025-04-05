@@ -1,7 +1,7 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "l:\\upb_acs_cti\\server_plugin\\server\\doamne.cpp",
+        "Source": "l:\\upb_acs_cti\\server_plugin\\server\\client.cpp",
         "ProvidedModule": "",
         "Includes": [
             "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.43.34808\\include\\iostream",
