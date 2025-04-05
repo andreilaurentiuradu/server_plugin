@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "testare_vtune.dir\\Debug\\doamne.obj",
+            "outputs": [
+                "L:\\UPB_ACS_CTI\\server_plugin\\server\\build\\testare_vtune.dir\\Debug\\vc143.pdb",
+                "testare_vtune.dir\\Debug\\"
+            ],
+            "requires": []
+        }
+    ]
+}

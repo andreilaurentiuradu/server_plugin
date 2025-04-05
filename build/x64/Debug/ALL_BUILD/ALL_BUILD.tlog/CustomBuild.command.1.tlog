@@ -1,0 +1,10 @@
+^L:\UPB_ACS_CTI\SERVER_PLUGIN\SERVER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SL:/UPB_ACS_CTI/server_plugin/server -BL:/UPB_ACS_CTI/server_plugin/server/build --check-stamp-file L:/UPB_ACS_CTI/server_plugin/server/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
